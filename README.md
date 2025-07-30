@@ -184,7 +184,7 @@ ecommerce-esen/
 
 ## 🌐 Demo en Vivo
 
-**URL de la aplicación:** [https://tu-ecommerce-esen.vercel.app](https://tu-ecommerce-esen.vercel.app)
+**URL de la aplicación:** https://proyecto-prostore.vercel.app/
 
 ## 🔧 Scripts Disponibles
 
