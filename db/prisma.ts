@@ -2,9 +2,6 @@ import { PrismaClient } from '@prisma/client';
 
 const connectionString = process.env.DATABASE_URL;
 
-console.log('DATABASE_URL exists:', !!process.env.DATABASE_URL);
-console.log('DATABASE_URL starts with:', process.env.DATABASE_URL?.substring(0, 20));
-
 if (!connectionString) {
   throw new Error('DATABASE_URL environment variable is not set');
 }
